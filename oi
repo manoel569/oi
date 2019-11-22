@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1,HBO Plus
+http://edge-aws.aovivo.club/hls/s:78.47.3.135/hboplus1080p_39dfc9ff_05b687d18e51daa19bbddcfd3cf055f635b7ff08.m3u8
+#EXTINF:-1,TNT
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/tnt_9109c85a_f4bbd7295143ccd888f7e5f28ee78bab23d9474c/playlist.m3u8
+#EXTINF:-1,Telecine Pipoca 
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/telecinepipoca_fd937516_ce8a04a191106725a9efca643565a727b7fbbdf2/playlist.m3u8
+#EXTINF:-1,Universal
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/universalchannel_8290abc6_cef54fb6b767e9501597bf3eb584acca3c7b9f49/playlist.m3u8
